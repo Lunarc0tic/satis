@@ -1,5 +1,6 @@
 # satisfactory modlist :
 
+SATISFACTOY MOD MANAGER : https://ficsit.app/ 
 Covered Conveyor Belt;
 Farming Mod;
 FicsIt-Networks;
